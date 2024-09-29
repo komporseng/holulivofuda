@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://holulivofuda.netlify.app/sitemap.xml
